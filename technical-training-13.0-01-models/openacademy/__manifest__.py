@@ -20,6 +20,7 @@
     'category':    'OpenAcademy',
     'version':     '0.1',
 
+    #my first commit
     # any module necessary for this one to work correctly
     'depends':     ['base'],
 
